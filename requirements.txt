@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+numpy
+matplotlib
+keras
+pandas
+torch
+torchvision
+opencv-python
+skorch
+tensorflow
+streamlit_drawable_canvas
