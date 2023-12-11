@@ -3,6 +3,7 @@
 
 # Task : Handwritten Text Digit Recognition
 
+
 ## Problem Statement:
 
 Handwritten digit recognition is a fundamental task in machine learning and computer vision that involves identifying and classifying individual digits (0-9) that have been handwritten. This task plays a crucial role in various applications across different domains.
