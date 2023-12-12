@@ -1,6 +1,5 @@
 # Hand-written-digit-recognition-using-streamlit
 
-
 # Task : Handwritten Text Digit Recognition
 
 
