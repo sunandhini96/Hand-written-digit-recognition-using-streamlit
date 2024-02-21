@@ -45,6 +45,8 @@ Follow these steps to use the application:
 
 Enjoy using the Handwritten Digit Recognition app!
 
+
+
 # Hugging face application link:
 
 https://huggingface.co/spaces/Gosula/hand_written_digit_recognition
